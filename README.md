@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sip357
-- 👀 I’m interested in Software Development, Data Analytics, and Data Science
-- 🌱 I’m currently learning Go, React, TypeScript, SQL, and PowerBI
+- 👀 I’m interested in Software Development, Cybersecurity, Data Analytics, and Data Science
+- 🌱 I’m currently learning Go, React, TypeScript, SQL, Active Directory
 - 📫 How to reach me --- [My LinkedIn/](https://www.linkedin.com/in/somto-ike-peters-a52699239/)
 
 <!---
